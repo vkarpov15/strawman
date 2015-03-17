@@ -11,7 +11,7 @@
 'use strict';
 
 var _ = require('underscore');
-var Emitter = require('event-emitter');
+var Emitter = require('events').EventEmitter;
 
 module.exports = function(functionDescriptions) {
   var ret = {};

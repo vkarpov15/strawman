@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vkarpov15/strawman/issues"
   },
+  "dependencies": {
+    "underscore": "1.5.2"
+  },
   "homepage": "https://github.com/vkarpov15/strawman"
 }
