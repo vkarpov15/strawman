@@ -1,0 +1,19 @@
+{
+  "name": "strawman",
+  "version": "0.0.1",
+  "description": "Utility for building test stubs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vkarpov15/strawman.git"
+  },
+  "author": "Valeri Karpov <val@karpov.io>",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/vkarpov15/strawman/issues"
+  },
+  "homepage": "https://github.com/vkarpov15/strawman"
+}
